@@ -16,3 +16,6 @@ Este repositório serve para acompanhar minha evolução nos estudos e guardar m
 
 ## 🎯 Objetivo
 Praticar todos os dias e evoluir como programador, criando projetos cada vez mais complexos.
+
+
+- 📧 **Email:**kevin.michael.pacheco@gmail.com  
