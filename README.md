@@ -18,4 +18,10 @@ Este repositório serve para acompanhar minha evolução nos estudos e guardar m
 Praticar todos os dias e evoluir como programador, criando projetos cada vez mais complexos.
 
 
-- 📧 **Email:**kevin.michael.pacheco@gmail.com  
+📫 Entre em contato comigo
+
+💻 Kevin Michael Pacheco
+📍 Ribeirão das Neves - MG, Brasil
+📧 kevin.michael.pacheco@gmail.com
+
+💬 Sempre aberto para conversar sobre C++, Python e desenvolvimento em geral!
